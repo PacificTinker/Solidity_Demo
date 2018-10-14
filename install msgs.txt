@@ -1,0 +1,59 @@
+C:\Users\Ed Tanner\Ethereum\inbox>npm install --save mocha ganache-cli web3@1.0.
+0-beta.26
+npm WARN deprecated babel-preset-es2015@6.24.1: ?  Thanks for using Babel: we re
+commend using babel-preset-env now: please read babeljs.io/env to update!
+npm WARN deprecated nomnom@1.8.1: Package no longer supported. Contact support@n
+pmjs.com for more info.
+npm WARN deprecated fs-promise@2.0.3: Use mz or fs-extra^3.0 with Promise Suppor
+t
+npm WARN deprecated tar.gz@1.0.7: ??  WARNING ?? tar.gz module has been deprecat
+ed and your application is vulnerable. Please use tar module instead: https://np
+mjs.com/tar
+
+> websocket@1.0.26 install C:\Users\Ed Tanner\Ethereum\inbox\node_modules\web3-p
+roviders-ws\node_modules\websocket
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+
+C:\Users\Ed Tanner\Ethereum\inbox\node_modules\web3-providers-ws\node_modules\we
+bsocket>if not defined npm_config_node_gyp (node "C:\Program Files\nodejs\node_m
+odules\npm\node_modules\npm-lifecycle\node-gyp-bin\\..\..\node_modules\node-gyp\
+bin\node-gyp.js" rebuild )  else (node "C:\Program Files\nodejs\node_modules\npm
+\node_modules\node-gyp\bin\node-gyp.js" rebuild )
+Building the projects in this solution one at a time. To enable parallel build,
+please add the "/m" switch.
+  bufferutil.cc
+  win_delay_load_hook.cc
+     Creating library C:\Users\Ed Tanner\Ethereum\inbox\node_modules\web3-provi
+  ders-ws\node_modules\websocket\build\Release\bufferutil.lib and object C:\Use
+  rs\Ed Tanner\Ethereum\inbox\node_modules\web3-providers-ws\node_modules\webso
+  cket\build\Release\bufferutil.exp
+  Generating code
+  Finished generating code
+  bufferutil.vcxproj -> C:\Users\Ed Tanner\Ethereum\inbox\node_modules\web3-pro
+  viders-ws\node_modules\websocket\build\Release\\bufferutil.node
+  bufferutil.vcxproj -> C:\Users\Ed Tanner\Ethereum\inbox\node_modules\web3-pro
+  viders-ws\node_modules\websocket\build\Release\bufferutil.pdb (Full PDB)
+  validation.cc
+  win_delay_load_hook.cc
+     Creating library C:\Users\Ed Tanner\Ethereum\inbox\node_modules\web3-provi
+  ders-ws\node_modules\websocket\build\Release\validation.lib and object C:\Use
+  rs\Ed Tanner\Ethereum\inbox\node_modules\web3-providers-ws\node_modules\webso
+  cket\build\Release\validation.exp
+  Generating code
+  Finished generating code
+  validation.vcxproj -> C:\Users\Ed Tanner\Ethereum\inbox\node_modules\web3-pro
+  viders-ws\node_modules\websocket\build\Release\\validation.node
+  validation.vcxproj -> C:\Users\Ed Tanner\Ethereum\inbox\node_modules\web3-pro
+  viders-ws\node_modules\websocket\build\Release\validation.pdb (Full PDB)
+npm WARN webpack-cli@2.1.5 requires a peer of webpack@^4.0.0 but none is install
+ed. You must install peer dependencies yourself.
+npm WARN inbox@1.0.0 No description
+npm WARN inbox@1.0.0 No repository field.
+
++ mocha@5.2.0
++ ganache-cli@6.1.3
++ web3@1.0.0-beta.26
+removed 135 packages, updated 19 packages and moved 1 package in 310.552s
+
+C:\Users\Ed Tanner\Ethereum\inbox>
